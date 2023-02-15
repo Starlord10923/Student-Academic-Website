@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <link rel="stylesheet" type="text/css" href="login.css">
+  <script src="login.js"></script>
+  <title>Login Page</title>
+</head>
+
+<body>
+  <div class="center">
+    <h1>Login</h1>
+    <form onsubmit="login();return false">
+      <h4>Name</h4><input type="text" id="name" placeholder="Enter Name" required><br>
+      <h4>Password</h4><input type="text" id="pass" placeholder="Enter Password" required><br><br>
+      <button type="submit" name="submit" id="submit">Submit</button>
+      <p id="login_validity"></p>
+    </form>
+  </div>
+</body>
+
+</html>

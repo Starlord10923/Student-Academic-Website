@@ -1,0 +1,33 @@
+body{
+    margin: 0;
+    background: linear-gradient(to right, black,grey,black);
+}
+div{
+    padding-top: 15px;
+    border-radius: 12px;
+}
+div:hover{
+    border-radius: 3px;
+    box-shadow: 0px 0px 10px 3px black;
+}
+h4{
+    color: aqua;
+}
+::placeholder{
+    color: blue;
+}
+button{
+    padding: 10px 50px 10px 50px;
+    background-color:white;
+}
+.center {
+    margin: 100px auto 0px auto;
+    width: 270px;
+    height: 250px;
+    border: 3px solid black;
+    padding: 50px 0px 100px 80px;
+    background: linear-gradient(to right, black,grey,black);
+}
+h1{
+    padding-left: 50px;
+}

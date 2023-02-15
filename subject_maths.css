@@ -1,0 +1,42 @@
+body{
+    background-color:rgb(253, 136, 159);
+}
+
+.math{
+    text-align: center;
+    color: black;
+    font-size: 25px;
+}
+
+ul{
+    margin-top: 60px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 20px;
+}
+
+table{
+    margin-top: 80px;
+    font-size: 20px;
+    font-family: sans-serif;
+    text-align: center;
+}
+
+.green{
+    background-color: rgb(169, 232, 169);
+}
+
+.red{
+    background-color: rgb(244, 124, 124);
+}
+
+.yellow{
+    background-color: rgb(239, 239, 122);
+}
+
+.grey{
+    background-color: lightgrey;
+}
+
+.bck{
+    margin-top: 20px;
+}
